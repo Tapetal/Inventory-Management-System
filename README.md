@@ -39,8 +39,16 @@ The system tracks all actions, provides analytics, and ensures data integrity �
 
 ## Quick Start
 
+### Frontend Setup
+cd client
+npm install
+npm run dev
+
 ### Backend Setup
-```bash
 cd backend
 npm install
 npm run dev
+
+👨‍💻 Author
+Ashraf Aminu
+📧 aminuashraf55@gmail.com
